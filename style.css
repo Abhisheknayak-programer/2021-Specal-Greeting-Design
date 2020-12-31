@@ -123,4 +123,7 @@
     .mydiv3{
         display: none;
     }
+    .firsthead2{
+        transform: skew(0deg);
+    }
 }
