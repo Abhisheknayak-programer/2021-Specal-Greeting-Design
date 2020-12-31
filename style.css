@@ -93,7 +93,7 @@
 
 
 
-@media only screen and (max-width:388px){
+@media only screen and (max-width:578px){
     html{
         font-size: 62%;
     }
@@ -110,7 +110,7 @@
         height: 100px;
         width: 100px;
     }
-    
+
     .mydiv1{
         height: 40px;
         width: 40px;
